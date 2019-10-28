@@ -55,7 +55,7 @@ Let's create a new file: `.storybook/addons/design-assets.js`. (you may have to 
 
 Within this new file we're going to import some dependencies we're going to need. You may also need to install these using `npm` or `yarn`.
 
-These will be the dependencies we're going ot need: `react`, `@storybook/api`, `@storybook/addons` and `@storybook/components`.
+These will be the dependencies we're going to need: `react`, `@storybook/api`, `@storybook/addons` and `@storybook/components`.
 
 In the file we just created we're going to import these dependencies:
 
